@@ -1,2 +1,1 @@
-SAntiago Solis Acosta
-Manejo de Bases de datso
+Esta bases de datos contiene todo un sistema de información capaz de almacenar las ventas de una tienda de servicios tecnologicos
